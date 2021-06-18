@@ -8,10 +8,10 @@ var maxDrops=100;
 var drops=[];
 
 function preload(){
-    thunder1Img=loadImage("thunderbolt/1.png")
-    thunder2Img=loadImage("thunderbolt/2.png")
-    thunder3Img=loadImage("thunderbolt/3.png")
-    thunder4Img=loadImage("thunderbolt/4.png")
+    thunder1Img=loadImage("1.png")
+    thunder2Img=loadImage("2.png")
+    thunder3Img=loadImage("3.png")
+    thunder4Img=loadImage("4.png")
 }
 
 function setup(){
